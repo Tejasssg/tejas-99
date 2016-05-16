@@ -1,0 +1,19 @@
+Hi All,
+We have Completed Full Regression Testing for RC1(Version-sdk:e2677cd-app:555cdbc-4.0.1) for Ledacy Ads on following Devices
+Tecno Tab(5.0), Lenovo Tab(4.4.2)	
+Build - Legacy 
+Server - QA & Mocking
+Pub App Id for QA server -572908620e2011102000000c
+
+We also verified following tickets on RC1 Legacy build: 
+AND-392    
+AND-457
+Both the issues are working correct
+No new issues were found on RC1 build for Legacy Ads.
+
+Please refer the attached smoke test report()
+cc Ranu Likhar Chinmayi Arukala Christopher Chung 
+
+
+GitHub
+https://www.youtube.com/watch?v=ozI34hW-JME
