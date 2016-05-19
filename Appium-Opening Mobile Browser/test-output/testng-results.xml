@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15542" started-at="2016-02-02T12:54:11Z" finished-at="2016-02-02T12:54:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15542" started-at="2016-02-02T12:54:11Z" finished-at="2016-02-02T12:54:27Z">
+      <class name="com.selenium.appium.NewTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.selenium.appium.NewTest@649d209a]" name="init" is-config="true" duration-ms="9986" started-at="2016-02-02T18:24:11Z" finished-at="2016-02-02T18:24:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="googleTest()[pri:0, instance:com.selenium.appium.NewTest@649d209a]" name="googleTest" duration-ms="5532" started-at="2016-02-02T18:24:21Z" finished-at="2016-02-02T18:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+      </class> <!-- com.selenium.appium.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
