@@ -24,6 +24,8 @@ public class ScreenShotTest {
 	private String destDir;
 	private DateFormat dateFormat;
 
+	//comment by ranu to test git branches
+	
 	@BeforeClass
 	public void setUp() throws MalformedURLException {
 
