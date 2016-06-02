@@ -44,6 +44,7 @@ public class ScreenShotTest {
 	public void ScreenShot() {
 		takeScreenShot();
 	}
+	// commit to 2june branch
 
 	public void takeScreenShot() {
 
